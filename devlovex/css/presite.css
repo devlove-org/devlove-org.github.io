@@ -1,0 +1,26 @@
+*{
+    color: #FFF;
+}
+html{
+    margin: auto;
+    background-color: black;
+    background-size: cover;
+}
+#olympic{
+    font-size: 7em;
+    text-shadow: 0.1em 0.1em 0.1em #777;
+}
+
+#maintext{
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 24px;
+}
+
+#timer .yycountdown-box .yyc-day,#timer .yycountdown-box .yyc-sec,#timer .yycountdown-box .yyc-hou,#timer .yycountdown-box .yyc-min{
+    font-size: 4em;
+}
+
+strong{
+    color:red;
+}
