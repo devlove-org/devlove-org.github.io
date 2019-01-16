@@ -6,6 +6,16 @@ html{
     background-color: black;
     background-size: cover;
 }
+
+body {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%,-50%);
+    -webkit-transform : translate(-50%,-50%);
+    transform : translate(-50%,-50%);
+}
+
 #olympic{
     font-size: 7em;
     text-shadow: 0.1em 0.1em 0.1em #777;
